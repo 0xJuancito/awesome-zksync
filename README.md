@@ -37,6 +37,7 @@ zkSync 2.0 is a ZK rollup that supports generalized EVM compatibility for the Et
 - [zkSync 2 - first EVM-compatible zkRollup](https://www.youtube.com/watch?v=zknVgruhjnU) - by Alex Gluchowski @ EthCC[4]
 - [The zkEVM is Here](https://www.youtube.com/watch?v=QkZUlqetTRA) - Steve Newcomb @ Bankless
 - [zkEVM: Compatibility vs Equivalence](https://www.youtube.com/watch?v=-Kglh-5Na-k&t=2265s) - Alex Gluchowski @ 8th Global Blockchain Summit
+- [EIP4844 panel](https://www.youtube.com/watch?v=idBYmaok520&t=13461s) - DevCon Bogotá workshop
 
 ### Projects
 
