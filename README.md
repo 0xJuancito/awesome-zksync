@@ -92,7 +92,7 @@ zkSync v1 is a trustless protocol for scalable low-cost payments on Ethereum, po
 ### Tools
 
 - [Block Explorer](https://zkscan.io/) - zkScan: Mainnet | Explore L2 Rollup Blockchain
-- [Network Status](https://uptime.com/s/zksync) - Current StatusHistory & Incidents
+<!-- - [Network Status](https://uptime.com/s/zksync) - Current StatusHistory & Incidents -->-
 - [L2 fees](https://l2fees.info/) - Fee to transfer and swap tokens
 - [Wallet](https://wallet.zksync.io/) - A crypto wallet & gateway to layer-2 zkSync Rollup
 - [Payment Link Creator](https://link.zksync.io/) - Create zkSync payment links, get paid in tokens
@@ -109,7 +109,7 @@ The following are official links
 - [YouTube](https://www.youtube.com/c/MatterLabs)
 - [Reddit](https://www.reddit.com/r/zkSync/)
 - [Medium](https://blog.matter-labs.io/)
-- [Jobs](https://jobs.eu.lever.co/matterlabs)
+<!-- [Jobs](https://jobs.eu.lever.co/matterlabs) -->-
 
 # Buy me a zkCoffee ☕️
 
