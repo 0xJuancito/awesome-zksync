@@ -109,10 +109,6 @@ The following are official links
 - [Reddit](https://www.reddit.com/r/zkSync/)
 - [Medium](https://blog.matter-labs.io/)
 
-# Buy me a zkCoffee ☕️
-
-zkSync wallet: `0xFD0E1F2fc10F7E43dcF80b1F17F0e4435E858035`
-
 ---
 
 ➕ Always verify the authenticity of the links
