@@ -104,7 +104,7 @@ The following are official links
 - [Website](https://zksync.io/)
 - [GitHub](https://github.com/matter-labs)
 - [Twitter](https://twitter.com/zksync)
-- [Discord](https://discord.gg/nMaPGrDDwk)
+- [Discord](https://join.zksync.dev/)
 - [YouTube](https://www.youtube.com/c/MatterLabs)
 - [Reddit](https://www.reddit.com/r/zkSync/)
 - [Medium](https://blog.matter-labs.io/)
