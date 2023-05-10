@@ -47,6 +47,7 @@ zkSync 2.0 is a ZK rollup that supports generalized EVM compatibility for the Et
 - [Crypto.com](https://blog.matter-labs.io/cryptocom-cb911e7ba58c) - Crypto.com Is Scaling Ethereum with zkSync, the First EVM-Compatible ZK Rollup
 - [Curve](https://gov.curve.fi/t/proposal-to-launch-curve-on-zksync/4367) - Proposal to deploy Curve on zkSync
 - [Ecosystem overview](https://ecosystem.zksync.io/) - List with more than 150 projects
+- [zksync-starter](https://github.com/ewerx/zksync-starter) - zkSync + Next.js Turborepo starter kit / template project
 
 > **IMPORTANT** If you want to deploy your project to zkSync v2, make sure to submit your project in the [ecosystem page](https://ecosystem.zksync.io/)
 
