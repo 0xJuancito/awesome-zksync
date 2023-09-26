@@ -90,6 +90,10 @@ zkSync v1 is a trustless protocol for scalable low-cost payments on Ethereum, po
 - [ParaSwap](https://twitter.com/paraswap/status/1469429505060126728) - This is the very first ZkSync / ParaSwap transaction
 - [Argent](https://support.argent.xyz/hc/en-us/articles/4406742741649-How-to-fund-your-zkSync-account-from-another-wallet-or-exchange) - How to fund your zkSync account from another wallet or exchange
 
+### Jobs
+
+- [Open Positions at MatterLabs](https://jobs.eu.lever.co/matterlabs)
+
 ### Tools
 
 - [Block Explorer](https://zkscan.io/) - zkScan: Mainnet | Explore L2 Rollup Blockchain
@@ -97,6 +101,8 @@ zkSync v1 is a trustless protocol for scalable low-cost payments on Ethereum, po
 - [Wallet](https://wallet.zksync.io/) - A crypto wallet & gateway to layer-2 zkSync Rollup
 - [Payment Link Creator](https://link.zksync.io/) - Create zkSync payment links, get paid in tokens
 - [Alternate Withdrawal Tool](https://withdraw.zksync.io/) - Easily move your funds to L1 without interaction with L2
+- [Testnet status page](https://uptime.com/statuspage/zkSync-testnet) - Check current status and incident history of zkSync testnet
+- [Mainnet status page](https://uptime.com/statuspage/zkSync) - Check current status and incident history of zkSync mainnet
 
 ## Official Links
 
