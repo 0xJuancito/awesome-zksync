@@ -18,4 +18,4 @@ jobs:
       - name: Install awesome_bot
         run: gem install awesome_bot
       - name: Check URLs
-        run: awesome_bot README.md --allow-redirect --request-delay 0.2 --skip-save-results --allow-dupe --white-list "https://portal.zksync.io/","https://support.argent.xyz/hc/en-us/articles/4406742741649-How-to-fund-your-zkSync-account-from-another-wallet-or-exchange"
+        run: awesome_bot README.md --allow-redirect --request-delay 0.2 --skip-save-results --allow-dupe --white-list "https://portal.zksync.io/","https://support.argent.xyz/hc/en-us/articles/4406742741649-How-to-fund-your-zkSync-account-from-another-wallet-or-exchange","twitter.com"
