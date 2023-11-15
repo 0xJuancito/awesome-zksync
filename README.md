@@ -48,9 +48,9 @@ zkSync Era is a ZK rollup that supports generalized EVM compatibility for the Et
 ### Articles
 
 - [Different types of zkEVMs](https://vitalik.ca/general/2022/08/04/zkevm.html) - Vitalik
-- [Baby Alpha has arrived](https://blog.matter-labs.io/baby-alpha-has-arrived-5b10798bc623) - Mainnet launch
-- [End-to-end prover live on testnet](https://blog.matter-labs.io/milestone-3-zksync-end-to-end-prover-is-now-live-on-testnet-9ee4fdc1874f) - Announcement of milestone 3 completed
-- [100 days to Mainnet](https://blog.matter-labs.io/100-days-to-mainnet-6f230893bd73) - zkSync v2 roadmap
+- [Baby Alpha has arrived](https://medium.com/matter-labs/baby-alpha-has-arrived-5b10798bc623) - Mainnet launch
+- [End-to-end prover live on testnet](https://medium.com/matter-labs/milestone-3-zksync-end-to-end-prover-is-now-live-on-testnet-9ee4fdc1874f) - Announcement of milestone 3 completed
+- [100 days to Mainnet](https://medium.com/matter-labs/100-days-to-mainnet-6f230893bd73) - zkSync v2 roadmap
 - [zkPorter: a breakthrough in L2 scaling](https://medium.com/matter-labs/zkporter-a-breakthrough-in-l2-scaling-ed5e48842fbf) - Ending the debate between ZK and optimistic rollups
 - [zkEVM Reddit AMA](https://www.reddit.com/r/ethereum/comments/q8q822/ama_were_matter_labs_the_team_behind_zksync_the/) - We’re Matter Labs, the team behind zkSync, the first EVM-Compatible ZK Rollup, powered by our zkEVM
 - [UniSync Demo](https://medium.com/matter-labs/unisync-a-port-of-uniswap-v2-on-the-zkevm-b12954748504) - A port of Uniswap V2 on the zkEVM
@@ -67,9 +67,9 @@ zkSync Era is a ZK rollup that supports generalized EVM compatibility for the Et
 ### Projects
 
 - [Uniswap](https://app.uniswap.org/#/vote/2/25) - Approved proposal to deploy Uniswap v3 to zkSync v2
-- [The Graph](https://blog.matter-labs.io/thegraph-51c45d351029) - zkSync will be the first ZK-Protocol indexed by The Graph
+- [The Graph](https://medium.com/matter-labs/thegraph-51c45d351029) - zkSync will be the first ZK-Protocol indexed by The Graph
 - [Aave](https://snapshot.org/#/aave.eth/proposal/0x8257d8c7681a3587a61f0d97997045c4d35815031d56386c854afa66f0d04351) - Approved proposal to deploy Aave to zkSync
-- [Crypto.com](https://blog.matter-labs.io/cryptocom-cb911e7ba58c) - Crypto.com Is Scaling Ethereum with zkSync, the First EVM-Compatible ZK Rollup
+- [Crypto.com](https://medium.com/matter-labs/cryptocom-cb911e7ba58c) - Crypto.com Is Scaling Ethereum with zkSync, the First EVM-Compatible ZK Rollup
 - [Curve](https://gov.curve.fi/t/proposal-to-launch-curve-on-zksync/4367) - Proposal to deploy Curve on zkSync
 - [Ecosystem overview](https://ecosystem.zksync.io/) - List with more than 150 projects
 - [zksync-starter](https://github.com/ewerx/zksync-starter) - zkSync + Next.js Turborepo starter kit / template project
@@ -93,8 +93,8 @@ zkSync v1 is a trustless protocol for scalable low-cost payments on Ethereum, po
 
 ### Articles
 
-- [How Ethereum merge affects zkSync](https://blog.matter-labs.io/the-ethereum-merge-how-it-affects-zksync-ba3f00b8542b) - As the most Ethereum-aligned L2, zkSync will evolve with the Ethereum ecosystem
-- [DeFi](https://blog.matter-labs.io/leading-defi-projects-and-exchanges-invest-to-bring-solidity-to-zksync-9a3df978f824) - Leading Defi projects, wallets and exchanges invest to bring Solidity to zkSync
+- [How Ethereum merge affects zkSync](https://medium.com/matter-labs/the-ethereum-merge-how-it-affects-zksync-ba3f00b8542b) - As the most Ethereum-aligned L2, zkSync will evolve with the Ethereum ecosystem
+- [DeFi](https://medium.com/matter-labs/leading-defi-projects-and-exchanges-invest-to-bring-solidity-to-zksync-9a3df978f824) - Leading Defi projects, wallets and exchanges invest to bring Solidity to zkSync
 
 ### Videos
 
@@ -131,7 +131,7 @@ The following are official links
 - [Discord](https://join.zksync.dev/)
 - [YouTube](https://www.youtube.com/c/MatterLabs)
 - [Reddit](https://www.reddit.com/r/zkSync/)
-- [Medium](https://blog.matter-labs.io/)
+- [Medium](https://medium.com/matter-labs/)
 
 ---
 
