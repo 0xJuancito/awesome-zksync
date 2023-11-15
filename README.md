@@ -4,9 +4,9 @@
 
 ↔️ A curated list of awesome zkSync resources
 
-## zkSync 2.0
+## zkSync Era
 
-zkSync 2.0 is a ZK rollup that supports generalized EVM compatibility for the Ethereum blockchain. The primary benefit of zkSync 2.0 is that developers who have created EVM dApps can port to zkSync 2.0 effortlessly and realize significantly lower gas fees and more transactions per second.
+zkSync Era is a ZK rollup that supports generalized EVM compatibility for the Ethereum blockchain. The primary benefit of zkSync Era is that developers who have created EVM dApps can port to zkSync Era effortlessly and realize significantly lower gas fees and more transactions per second.
 
 ### Resources
 
