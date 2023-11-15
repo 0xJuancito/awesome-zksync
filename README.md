@@ -15,10 +15,15 @@ zkSync Era is a ZK rollup that supports generalized EVM compatibility for the Et
 - [zkSync ELI5 (Explain Like I'm 5)](https://twitter.com/0xangelfish/status/1460303951627128832) - Twitter thread
 - [zkPorter ELI5](https://twitter.com/0xangelfish/status/1460741464757919744) - Twitter thread
 - [Visual guide to Layer 2s](https://mirror.xyz/cliffton.eth/mCO-oaRIOyvEpIZ5hJrmU-cNDZ3Z9Es7mXOPH_I9uoM)
-
-### FAQ
-
 - [zkEVM FAQ](https://zksync.io/zkevm/) - Official zkEVM FAQ
+
+### Tools
+
+- [Wallet](https://portal.zksync.io/)
+- [Bridge](https://portal.zksync.io/bridge)
+- [Block explorer](https://zksync2-mainnet.zkscan.io/)
+- [Smart contract verification](https://scan-v2.zksync.dev/contracts/verify)
+- [zkEVM debugger](https://scan-v2.zksync.dev/tools/debugger)
 
 ### Articles
 
@@ -50,14 +55,6 @@ zkSync Era is a ZK rollup that supports generalized EVM compatibility for the Et
 - [zksync-starter](https://github.com/ewerx/zksync-starter) - zkSync + Next.js Turborepo starter kit / template project
 
 > **IMPORTANT** If you want to deploy your project to zkSync v2, make sure to submit your project in the [ecosystem page](https://ecosystem.zksync.io/)
-
-### Tools
-
-- [Wallet](https://portal.zksync.io/)
-- [Bridge](https://portal.zksync.io/bridge)
-- [Block explorer](https://scan-v2.zksync.dev/)
-- [Smart contract verification](https://scan-v2.zksync.dev/contracts/verify)
-- [zkEVM debugger](https://scan-v2.zksync.dev/tools/debugger)
 
 ## zkSync 1.0
 
