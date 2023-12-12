@@ -48,6 +48,8 @@ zkSync Era is a ZK rollup that supports generalized EVM compatibility for the Et
 ### Articles
 
 - [Different types of zkEVMs](https://vitalik.ca/general/2022/08/04/zkevm.html) - Vitalik
+- [gm zkEVM!](https://medium.com/matter-labs/gm-zkevm-171b12a26b36) - Mainnet open to all
+- [All Aboard zkSync Era Mainnet](https://medium.com/matter-labs/all-aboard-zksync-era-mainnet-8b8964ba7c59) - Fair Onboarding Alpha
 - [Baby Alpha has arrived](https://medium.com/matter-labs/baby-alpha-has-arrived-5b10798bc623) - Mainnet launch
 - [End-to-end prover live on testnet](https://medium.com/matter-labs/milestone-3-zksync-end-to-end-prover-is-now-live-on-testnet-9ee4fdc1874f) - Announcement of milestone 3 completed
 - [100 days to Mainnet](https://medium.com/matter-labs/100-days-to-mainnet-6f230893bd73) - zkSync v2 roadmap
