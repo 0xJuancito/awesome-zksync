@@ -32,6 +32,8 @@ zkSync Era is a ZK rollup that supports generalized EVM compatibility for the Et
 - ZK Proof System, Internal Audit, from 2022-10-24 to 2022-11-18.
 - [ZK Proof System](https://github.com/HalbornSecurity/PublicReports/blob/master/ZK%20Audits/MatterLabs_zkSync_Era_Circuits_Zero_Knowledge_Security_Audit_Report_Halborn_Final..pdf), Halborn, from 2023-01-09 to 2023-03-08.
 - [Smart Contract Security Assessment](https://github.com/HalbornSecurity/PublicReports/blob/master/Solidity%20Smart%20Contract%20Audits/MatterLabs_Verifier_Smart_Contract_Security_Assessment_Report_Halborn_Final.pdf), Halborn, from July 12th, 2023 - July 20th, 2023.
+- [ZK Sync Era Smart Contracts, VM, Circuits Contest](https://code4rena.com/reports/2023-10-zksync), Code4rena,
+  from 2023-10-04 to 2023-10-24
 
 ### Bug Bounty Program
 
