@@ -10,7 +10,7 @@ zkSync Era is a ZK rollup that supports generalized EVM compatibility for the Et
 
 ### Resources
 
-- [Docs](https://v2-docs.zksync.io/dev/) - Official Docs
+- [Docs](https://era.zksync.io/docs/dev/) - Official Docs
 - [Tutorials](https://v2-docs.zksync.io/dev/tutorials/) - Official Tutorials
 - [zkSync ELI5 (Explain Like I'm 5)](https://twitter.com/0xangelfish/status/1460303951627128832) - Twitter thread
 - [zkPorter ELI5](https://twitter.com/0xangelfish/status/1460741464757919744) - Twitter thread
